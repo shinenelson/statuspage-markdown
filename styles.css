@@ -1,3 +1,7 @@
+body	{
+	background-color: grey;
+}
+
 .markdown-body table	{
 	width: 100%;
 	overflow: auto;
