@@ -1,0 +1,9 @@
+ul ul {
+	border: none;
+}
+
+ul ul li {
+	border-bottom: none;
+	float: right;
+	margin-top: -2.5rem;
+}
