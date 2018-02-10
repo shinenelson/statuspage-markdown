@@ -1,5 +1,5 @@
 <head>
-	<link href="/assets/css/custom-styles.css" rel="stylesheet">
+	<link href="assets/css/custom-styles.css" rel="stylesheet">
 </head>
 
 # ![status-logo](https://raw.githubusercontent.com/jayfk/statuspage/master/template/logo.png) Status
