@@ -1,6 +1,4 @@
-<head>
-	<link href="assets/css/custom-styles.css" rel="stylesheet">
-</head>
+<link href="assets/css/custom-styles.css" rel="stylesheet">
 
 # ![status-logo](https://raw.githubusercontent.com/jayfk/statuspage/master/template/logo.png) Status
 
