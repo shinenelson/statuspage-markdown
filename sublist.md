@@ -1,3 +1,4 @@
+<link href="assets/css/table.css" rel="stylesheet">
 <link href="assets/css/list.css" rel="stylesheet">
 <link href="assets/css/sublist.css" rel="stylesheet">
 
