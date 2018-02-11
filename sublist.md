@@ -2,14 +2,14 @@
 <link href="assets/css/list.css" rel="stylesheet">
 <link href="assets/css/sublist.css" rel="stylesheet">
 
-| Degraded Performance on Documentation |
-| Investigating on API |
+| <span class="degraded-perf panel"> Degraded Performance on Documentation </span> |
+| <span class="investigating panel"> Investigating on API </span> |
 
 # Systems - Sub-list
 * API
-  * Investigating
+  * <span class="investigating status"> Investigating </span>
 * Documentation
-  * Degraded Performance
+  * <span class="degraded-perf status"> Degraded Performance </span>
 * Modules
   * Operational
 * Websites
