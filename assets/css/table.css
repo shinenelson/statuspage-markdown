@@ -5,6 +5,8 @@ table	{
 .markdown-body table	{
 	display: table;
 	table-layout: fixed;
+	border: 1px solid #dfe2e5;
+	border-radius: 0.5rem;
 }
 
 .markdown-body table thead	{
@@ -14,6 +16,8 @@ table	{
 .markdown-body table tr,
 .markdown-body table tr:nth-child(2n),
 .markdown-body table td	{
-	border-radius: 0.5rem;
+	padding: 15px;
+	border: none;
+	border-bottom: 1px solid #dfe2e5;
 	background-color: transparent;
 }
