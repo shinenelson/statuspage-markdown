@@ -1,9 +1,10 @@
 ul ul {
 	border: none;
+	float: right;
 }
 
 ul ul li {
 	border-bottom: none;
 	float: right;
-	margin-top: -2.5rem;
+	padding: 0;
 }
